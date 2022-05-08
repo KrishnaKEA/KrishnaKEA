@@ -4,10 +4,10 @@
      <br/>    
    <hr/>
    <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKEA&layout=compact)](https://github.com/KrishnaKEA/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKEA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
          <hr/>
   <div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=github-readme-stats)](https://github.com/KrishnaKEA/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
