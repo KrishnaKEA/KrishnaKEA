@@ -11,5 +11,4 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=nodejs-movie-crud"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=KODAK-SD1"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=CovidTestCenter"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=clock"/>
 </div>
