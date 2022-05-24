@@ -9,4 +9,6 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=24hoursFrontend"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=react-todo-app"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=nodejs-movie-crud"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=KODAK-SD1"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=CovidTestCenter"/>
 </div>
