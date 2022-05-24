@@ -6,7 +6,7 @@
    <hr/>
    <div>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=24hourBackEnd"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=24hourBackEnd"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=24hourBackEnd"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=24hourBackEnd"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=24hoursFrontend"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=react-todo-app"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKEA&repo=nodejs-movie-crud"/>
 </div>
